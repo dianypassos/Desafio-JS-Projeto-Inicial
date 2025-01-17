@@ -6,7 +6,7 @@ let numeroDeVendas = 50;
 let saldoDisponível = 1000;
 
 let mensagemDeErro = "Erro! Preencha todos os campos"
-alert(mensagemDeErro)
+alert(mensagemDeErro);
 
 let nome = prompt("Qual o nome do usuário?")
 let idade = prompt("Digite a sua idade")
