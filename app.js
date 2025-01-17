@@ -1,6 +1,6 @@
 alert("Boas vindas ao nosso site!");
 
-let name = "lua";
+let name = "Lua";
 let age = 25;
 let numeroDeVendas = 50;
 let saldoDisponível = 1000;
